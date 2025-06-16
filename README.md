@@ -6,7 +6,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/other link can here) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/other link can here) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:visalsoeurn9@gmail.com) 
 
 # 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+ 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Soeurn-Visal&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Soeurn-Visal&theme=dark&hide_border=false)<br/>
@@ -15,19 +15,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
- 
- 
- 
-
- 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kea-daron&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kea-daron&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
 
 <img align="right" height="150" src="https://media1.giphy.com/media/tdYbdB9hKvdRq9wBn0/giphy.gif?cid=6c09b9527biaxwsxxqcxktce4btfedgpsz33eirk5baj9f7z&ep=v1_stickers_search&rid=giphy.gif&ct=s"  />
 
@@ -68,8 +55,5 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-
+ 
 ###
